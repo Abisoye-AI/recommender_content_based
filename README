@@ -1,18 +1,20 @@
 Recommendation System with Content Based Filtering
 
 Please see project page at:
-http://eugenelin89.github.io/recommender_content_based/
+http://Abisoye-AI.github.io/recommender_content_based/
+
+
+  THE COLAB NOTEBOOK CAN BE VIEWED FROM THIS LINK
+
+
+https://colab.research.google.com/drive/1LE3d6rx1EKW-QUMvAjJSaLg7FxJf0HVB
+
 
 SETUP
 
 The system is built with LensKit, an open-source took kit for building recommenders.
 
-Requires the following:
 
-Java SE Development Kit 7 (http://www.oracle.com/technetwork/java/javase/downloads/index.html)
-LensKit  (http://lenskit.grouplens.org)
-Apache Maven (https://maven.apache.org)
-Java IDE such as Eclipse (http://www.eclipse.org/) or IntelliJ IDEA (http://www.jetbrains.com/idea/).
 
 BACKGROUND
 This recommendation system prototype uses content-based filtering.  For detailed background, please refer to:
